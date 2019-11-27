@@ -98,18 +98,93 @@ z5bOTlxtkh9qcMBGzAFIO9u3nbxz8w==
 
 # get cannabis oil for vaping
 
-## tested and delightful
+## Empire Market
 
-### Dream
+### kimono (2019-11 active) (**accepts Monero**)
 
-#### kimono (2018-11 active)
+- [Empire kimono](http://r3p3c3nh4ayo7xgc.onion/u/kimono)
+- [Empire kimono BlackFriday Deal! THC Vape KIT. 2 X CARTS+MOD. UK Express Dispatch *8 Strains*](http://r3p3c3nh4ayo7xgc.onion/product/22130/75/120048)
+    - unit price 2019-11-27T1445Z: 0.008740 BTC/1.196629 XMR/63.11 USD
 
-- [Dream Kimono](http://t3e6ly3uoif4zcw2.onion/contactMember?member=kimono)
-- [Dream Kimono Cannabis oil E juice Vape liquid **mixed flavours* ](http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=626351.22703)
+![](media/1551788894YpSFJBToRVEMYtQAbEKh.jpg)
+
+#### kimono public key (key FEBB6B41: public key "kim001 <kim@cgmc.com>") (Empire Market) 2019-11-27T1419Z
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mQENBFyc0s0BCAC0JqSDsW6ClVfwEyCnpN5qsTwG+Pqtckf2F0ZBm5wBxclkfUSH
+M0JWYvoUHWTZ1q+veH+AlhAvHDHr/M6ETYaciQTn9Ygx8S1pQblCGl6mwE1nhr/3
+QQjBrqxxeYuEhrYrJBrS4xhvyk7mT4KL8KhLLOKB7oIJ2hXEOEIAAEJOGf33LlEL
+UPexcVHlTTWgOE3x9dvk0sWQ7aTQRWy/2LCxQ+7ArelFv/EE/xwbysGf+XNUwHK7
+9+Aca3v2xt2ZwQd5K8w2Dh0jX0awvJq+xAOzmlo+sGmLL/iUFs0KsYBkDJCEj8FG
+wGycV7UDmUYEZV8e4JDvo6CV1Qggv6V+V4bVABEBAAG0FWtpbTAwMSA8a2ltQGNn
+bWMuY29tPokBPAQTAQoAJgUCXJzSzQIbAwUJCWfgMwULCQgHAwUVCgkICwQWAgEA
+Ah4BAheAAAoJEPGfLmv+u2tBuUgH/i7ijKrJ5qTkhqAEEev/hZOFQ+zJeap1VXTl
+kMfgoVVa+cyenH6vNR8srPgZ98Az6bGTlkxpBbTbl37V7QPKZxpRKiYARFmXzT3p
+82BvFGsIsnveg5hgS/QxW1hyB+dXTwz5D2dAJnFN6bDe3dYDiEbqFvnhK8ClYZVJ
+rGIz7KPGpnEnBkw1KKG6OLGWw4c5RJsXlB+ydx4NU7ly1QquqHn+Ro2GgZBQZLL0
+yX4upZDyz2n61sKuq5QExT6BLCMUVAPXK5Vux5J0AQQUotgvlP1+1I1hHhgcPB7g
+4+Zu9l84zaDdY4yeTdk/MxwAOJNdPvIG8aaadS79GSMGr1EVv3C5AQ0EXJzSzQEI
+AOkU1RW7NAohzPOfJei30LHiWYEDOaoG36wD4NcDCqvjMl2mp1D1AQ/slubcbYMf
+/KTPTKjHUS+GUQ1yZ5pVi9t0aInJLE/Jh8N8lkg6ARTtQ1Mh+qFo/J/aAdwYEjto
+wnztpikQBBHi6Tb7lmF4JJn+IN9KfXZHFVns0OWNdKkW/OGNlSm8GHX6DjXX78vY
+YCkQGid5kw2yCBdD76HEELj9/de/blgVge7L5PbM1VDDq8IpUq0pKbRr545wk8Aa
+x5JTa9qxh04/cKWC1QtFBIV/U5jUvWQLL4XrI9QvNyLy+zqIgIgrkp61NiJyEGbD
+8adOWsqFl6ap1OkrdOWlFtUAEQEAAYkBJQQYAQoADwUCXJzSzQIbDAUJCWfgMwAK
+CRDxny5r/rtrQRTZCACvuvrvCD7KgO3QZ6qOygIs9m87ywIwGlEz7FJkaTDZK0yx
+PupBIXJP6dvNmJbE7GjtLG0uj0aeElKoxk2A4eUtjnWJcrO3TENDJ4fzP0GmOjDX
+4HRPLdtXqdndF2ujU2CTxPk24h0yl/JOxuqwFfmqgDnpQz0HYWZ4XerlMPjCViet
+TMdiMwUdXsvMvUrMag3ZnjaGzh1hvHNPBOCC+cKJpID6d/GA7+pOZdueeQcH5wwb
+RwHu5cym61vZp0hhNLGNdqmoYGlrROV+0gxyz16oe4BLDg0vjjYk4mmZpOh1s63u
+I3eJ4qxgtOARLljCI01RmWILIWfIJ54sw5qhPdBP
+=8qIu
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+## Dream (obsolete)
+
+### kimono (2018-11 active)
+
+- [Dream kimono](http://t3e6ly3uoif4zcw2.onion/contactMember?member=kimono)
+- [Dream kimono Cannabis oil E juice Vape liquid **mixed flavours* ](http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=626351.22703)
     - description: disposable vapes, rather strong, pleasant
     - unit price 2018-11-05T1450Z: 0.00525 BTC / 26 GBP
 
-#### madisonsquare (2018-10 retired)
+#### kimono public key (Dream) 2018-10-29T0035Z
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mQENBFusyOEBCAC93ENOP0Nga+995vlNOWuHrm+J9rdrC/Nke4aXAG0/dOSjgUmC
+XspSJL0gb1/1tkG70GRHZ3r52K9KERWdgvnG/ZJlSMtKpVtg2WpdzpDwJ4PORpbG
+9VSMYPDxFgqTkgy4ceTiieUod65BdfDhvAAIXETR313Q1YLo9HqWKzPyfrhg4cPW
+Sf7vbkY1EVi58mNS5j5ssUf2oWVVgDhnzkWEFrNMmUVHQ2UhLsBeTLaOMBeqoGEo
+3/pxR27mOHJ1GpCzMPr8Wo/yXE8nVU0NtehKQczxnZ50VBSkv74ORyR1ydo2apeG
+PLy4FQk/9YuGOStVV98vsGEhAKlYi1w9I9yVABEBAAG0GGRyZWFtIDxub25hbWVA
+ZHJlYW0uY29tPokBTgQTAQgAOBYhBG/22K7KQRlOoraUXV601Eq1I1lfBQJbrMjh
+AhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEF601Eq1I1lfwGQH/3Vkfgqv
+JnR3vMpdlhEcHsuneLZVJDZD2XIF0BGExqRWuotRoOCmBWYa0PNZ+1plqXW4uiLw
+aSqN4+HsGKraUiy6HjIBsk5gPv3PqovfOmvehcKvh7suERlzt3EtSRuxktJAw4Ki
+xpzh8C8cnALOaovq9s7Ek/d3z2end5A48BErpvE6UqhKWelraEp5j+LoJDsAaJo6
+tkUor9aoT4LQfXU+yW5zVnyD7rwAUQLYDofAVfZQAPlCXZOcDJM/7NC3Rx65Osql
+IXivWQsPs3iHRIswLDp/4jsnTRHK2Qd+lZ3xZ1v1Dt4AOWJvsDdo/YlDd3iAH0oF
+wOx+nhDot/Z2oPG5AQ0EW6zI4QEIALEfK45A/ObDzYMyaHFquT2Wu4lvtKHD5Lal
+R/fFoicgwvaW/JO6NzQFBb+JrIBSIIn3zM5Kk83a42JejlEafAPwCxMsD7eed86M
+jkvn0/Y6dnxLu2XcRCf01veySND5p8HrfHwCAX3U7rrAjmO6UUIXDKdeYBIl34II
+7+ovN+4mgxpPJjYaFEEmmZJsvlLhb+WgUIXCPfzwkCmLzblDkbhL6Qsn2ICtq922
++XUaMxUkkTHVsnJ8MJsXXcENayAf5+nC8mbjGAwQEakMRh66L7rmltqqqS77bHYE
+KO7PEa0d2VBxhV/ITI0uw9S3PnxwOiAxiYEL2SEFJsOyb1C9FeMAEQEAAYkBNgQY
+AQgAIBYhBG/22K7KQRlOoraUXV601Eq1I1lfBQJbrMjhAhsMAAoJEF601Eq1I1lf
+P14H/iOp4teB19eTjO5bpBRtUVx4QP5NIuF8mGPqiPGyg0urNoIMny4+iHcs1Chh
+UrrqfMAhfApu8yAqnsLccI/t79Z4Ps+xWjOX0UyONzlA2WZHh/nryUc/s+N6nEup
+DaZFhUrVMZluopWSN110CaHDt/FlSaz8Xj7osDADktePw8lCF2JFLY1VMa96eliS
+w1fmFFXW702BaQeFeQS/LrrxT2JrpICXfYve7wCMN+LltTflS7M6OOmLRLuGeaIR
+1kOHakc2YZ/HIcNQX/Q4TMNhKYoLisEgGk546c66bbXWMDuLCnFD94kNwb7MicUU
+9qLOGBbCS+PYoqGDoVFMeSgqgXc=
+=ThiI
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+### madisonsquare (2018-10 retired)
 
 ![](media/IMG_20180612_000920.jpg)
 
@@ -133,12 +208,12 @@ z5bOTlxtkh9qcMBGzAFIO9u3nbxz8w==
         - ceramic vape cartridge with 510 thread
         - made from bud run shatter
 
-#### future options for testing
+### future options for testing
 
 - extractgodsuk: <http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=144376.658469>
 
 # get hash
 
-## Dream
+## Dream (obsolete)
 
 - [Dream ExtraUKndd](http://t3e6ly3uoif4zcw2.onion/contactMember?member=ExtraUKndd)
