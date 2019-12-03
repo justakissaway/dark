@@ -20,10 +20,10 @@
 
 # DMT replications
 
-![](https://i.imgur.com/xy54YvA.gifv)
+[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gifv)
 
-![](https://i.imgur.com/xy54YvA.gifv)
+[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gifv)
 
-![](https://www.youtube.com/embed/ayzR73pRsFs)
+[![](https://img.youtube.com/vi/ayzR73pRsFs/maxresdefault.jpg)](https://www.youtube.com/embed/ayzR73pRsFs)
 
-![](https://www.youtube.com/embed/c8U4wNp3XyU)
+[![](https://img.youtube.com/vi/c8U4wNp3XyU/0.jpg)](https://www.youtube.com/embed/c8U4wNp3XyU)
