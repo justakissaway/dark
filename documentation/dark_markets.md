@@ -2,7 +2,7 @@
 
 # darknet markets
 
-<iframe width="560" height="315" src="media/You_will_never_find_a_more_wretched_hive_of_scum_and_villainy.mp4" frameborder="0" allowfullscreen></iframe>
+[![](media/You_will_never_find_a_more_wretched_hive_of_scum_and_villainy.png)](media/You_will_never_find_a_more_wretched_hive_of_scum_and_villainy.mp4)
 
 ## markets
 
@@ -18,17 +18,17 @@
 - <http://dreadditevelidot.onion/d/DarkNetMarkets>
 - <https://darknetlive.com>
 
-|**market**                         |**estimated status**|
-|-----------------------------------|--------------------|
-|Berlusconi Market                  |active              |
-|Cryptonia                          |to be considered    |
-|[Empire Market](Empire_Market.html)|active              |
-|Monopoly                           |to be considered    |
-|[OpenBazaar](OpenBazaar.html)      |active (2019-10-28) |
-|Samsara                            |to be considered    |
-|-----------------------------------|--------------------|
-|[Dream_Market](Dream_Market.html)  |closed              |
-|[AlphaBay](AlphaBay.html)          |seized              |
+|**market**                       |**estimated status**|
+|---------------------------------|--------------------|
+|Berlusconi Market                |active              |
+|Cryptonia                        |to be considered    |
+|[Empire Market](Empire_Market.md)|active              |
+|Monopoly                         |to be considered    |
+|[OpenBazaar](OpenBazaar.md)      |active (2019-10-28) |
+|Samsara                          |to be considered    |
+|---------------------------------|--------------------|
+|[Dream_Market](Dream_Market.md)  |closed              |
+|[AlphaBay](AlphaBay.md)          |seized              |
 
 ## darknet markets feedback and reviews
 

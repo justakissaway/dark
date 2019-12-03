@@ -30,7 +30,7 @@ There is likely nothing you can experience in normal reality that can prepare yo
 
 # make
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEwyfH_QMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/gdEwyfH_QMs/1.jpg)](https://www.youtube.com/embed/gdEwyfH_QMs)
 
 # reports
 

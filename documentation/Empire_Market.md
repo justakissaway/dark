@@ -10,7 +10,7 @@
 
 # comments
 
-This market uses [Bitcoin](Bitcoin.html), Litecoin and [Monero](Monero.html). Monero offers the best privacy, so it is recommended.
+This market uses [Bitcoin](Bitcoin.md), Litecoin and [Monero](Monero.md). Monero offers the best privacy, so it is recommended.
 
 # links
 

@@ -82,7 +82,7 @@ Sites are listed first, then some useful programs are described in their own sec
     - [Bandcamp Downloader](https://chrome.google.com/webstore/detail/bandcamp-downloader/nmoobgpmablfmgchfjnhkbloaobiogeh/related?hl=en)
     - [Funkytunes (BitTorrent-based music application for Android](https://github.com/funkyg/funkytunes))
 - cyber
-    - [AirVPN](../../AirVPN/documentation/documentation.html)
+    - [AirVPN](https://github.com/wdbm/resources_AirVPN)
 - dead
     - [Electronic Library](http://en.bookfi.org)
     - [downeu](http://www.downeu.me/ebook)

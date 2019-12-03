@@ -46,4 +46,4 @@ Little is known about the function of the claustrum. Connectivity studies have s
 
 # Salvia trips can be challenging
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7nG1_QuI1v0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/7nG1_QuI1v0/maxresdefault.jpg)](https://www.youtube.com/embed/7nG1_QuI1v0)

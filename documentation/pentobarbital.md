@@ -10,11 +10,11 @@ So you've decided to kill yourself!
 
 # video: Giving Up
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMYY2zXxPDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/DMYY2zXxPDA/maxresdefault.jpg)](https://www.youtube.com/embed/DMYY2zXxPDA)
 
 # video: Suic!de and Ment@l He@lth | Philosophy Tube ★
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eQNw2FBdpyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/eQNw2FBdpyE/maxresdefault.jpg)](https://www.youtube.com/embed/eQNw2FBdpyE)
 
 # please don't kill yourself
 
@@ -22,7 +22,7 @@ So you've decided to kill yourself!
 
 Please don't kill yourself because there are people who care about you even if they are hard to see, and there is always a chance things will get better, but if you do, consider first constructing an elabotate plan [like Dr. Ford did](https://www.youtube.com/watch?v=ro0H8c4mgq0).
 
-Hey you should also check out [set_and_setting](set_and_setting.html), which features some notes on a wonderful, if rather badly written app called [Trip Buddy](https://raw.githubusercontent.com/justakissaway/dark/master/apps/appinventor.ai_joelritossa.TripeGuide.apk). It has little things in it that try to calm you and its ineptness is kinda charming.
+Hey you should also check out [set_and_setting](set_and_setting.md), which features some notes on a wonderful, if rather badly written app called [Trip Buddy](https://raw.githubusercontent.com/justakissaway/dark/master/apps/appinventor.ai_joelritossa.TripeGuide.apk). It has little things in it that try to calm you and its ineptness is kinda charming.
 
 # counterpoint: there can be emergent meaning in suffering
 

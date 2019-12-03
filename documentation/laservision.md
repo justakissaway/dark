@@ -8,7 +8,7 @@
 
 # increase sharpness, intelligence
 
-- option: [Modafinil](Modafinil.html) + water
+- option: [Modafinil](Modafinil.md) + water
 - option: 1p-LSD microdose + cocaine + coffee + water
 
 # 2019-05-16 sharpness, alertness, productivity

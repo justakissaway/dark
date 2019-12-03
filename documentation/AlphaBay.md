@@ -20,7 +20,7 @@
         - Select Scan.
         - Scan the private wallet key QR code.
     - If needed, buy on LocalBitcoins.
-- Access VPN (e.g. [AirVPN](../AirVPN/documentation/documentation.html), [IPVanish](https://www.ipvanish.com)).
+- Access VPN (e.g. [AirVPN](https://github.com/wdbm/resources_AirVPN), [IPVanish](https://www.ipvanish.com)).
 - Access Tor.
 - Access [AlphaBay](http://pwoah7foa6au2pul.onion/index.php).
 - Add PGP information to AlphaBay profile.
