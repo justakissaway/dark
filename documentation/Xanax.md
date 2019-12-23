@@ -13,6 +13,8 @@
 - [profile](http://alu4z7a3upjtlqva.onion/u/PremierLeague)
 - [20x Xanax 2mg ( alprazolam )](http://alu4z7a3upjtlqva.onion/product/85426/69/184817)
     - 20 Xanax = 21.86 USD = 0.002318 BTC
+- [PremierLeague](http://v6u2ngtpiihou77b.onion/product/85428/69/184817) (2019-12-09T1634Z waiting to test)
+    - 42 Xanax = 43.41 USD = 0.005842 BTC
 - [PremierLeague](http://5h2csvvbrksbrcrn.onion/product/85426/69/184817) (2019-10-27 verified good)
     - 42 Xanax = 42.42 USD = 0.004516 BTC
 - [PremierLeague](http://5h2csvvbrksbrcrn.onion/product/85426/69/184817) (2019-08-29 verified)

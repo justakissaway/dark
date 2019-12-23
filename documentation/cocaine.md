@@ -23,6 +23,8 @@ In 2011, researchers at John Jay College of Criminal Justice reported that dieta
     - Samsara
     - Monopoly
 - [Empire Market](alu4z7a3upjtlqva.onion/u/NextGeneration)
+    - 2019-12-09T1630Z [UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g](http://v6u2ngtpiihou77b.onion/product/23954/105/147434)
+        - 0.037159 BTC = 6.083430 LTC = 5.095851 XMR
     - [UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g](alu4z7a3upjtlqva.onion/product/23954/105/147434)
     - 0.028801 BTC = 269.94 USD = 4.454815 XMR
 - obsolete

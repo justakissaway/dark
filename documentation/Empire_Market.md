@@ -28,6 +28,20 @@ This market uses [Bitcoin](Bitcoin.md), Litecoin and [Monero](Monero.md). Monero
 
 ## links origin hierarchy
 
+- 2019-12-09T1757Z http://ulkt55mrvzqh3zsm.onion (dark.fail) (GPG verified)
+    - wikpklptg7or6mun.onion
+    - dmqkb5e3dxmwa4dh.onion
+    - g6qwwjtjzzqgyfej.onion
+    - feykdoz3wtnbmprt.onion 
+- 2019-12-09T1626Z http://v6u2ngtpiihou77b.onion (dark.fail) (GPG verified)
+    - l4mnkhs3nc3pwwqv.onion
+    - dtcvvnpq3x3kg7ng.onion
+    - 6hbocssf2vcrwb7q.onion
+    - lu5i4uudgaq5i6vw.onion
+    - lu5i4uudgaq5i6vw.onion
+    - z5yry3xoktbvvrec.onion
+    - 2iz3wts7pptori3h.onion
+    - ybwin5cmj4hi5ynt.onion 
 - 2019-11-27T1753Z ir27si6mhsfrlivf.onion (darkfailllnkf4vf.onion) (GPG verified)
     - hn3bzy73jkyupdb7.onion
     - yq2gubfubcukxulx.onion 
