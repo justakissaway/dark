@@ -34,6 +34,8 @@ Psychedelics tend to reduce brain activity in the Default Mode Network (DMN), a 
 
 LSD may be an aphrodisiac. It stimulates the pituitary gland to release vasopressin, and vasopressin plays a role in social and sexual behaviour in mammals. Vasopressin and oxytocin are hormones that tend to be involved in sex, intimacy and bonding. In human males, there is a personality shift following orgasm possibly due to antagonism of oxytocin, prolactin release and inhibition of vasopressin secretion.
 
+![](media/cbzqs4i3ho141.jpg)
+
 # references
 
 - [Algorithmic Reduction of Psychedelic States](https://qualiacomputing.com/2016/06/20/algorithmic-reduction-of-psychedelic-states)
