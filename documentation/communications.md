@@ -31,16 +31,32 @@ This is a hidden service by [_jstanley](https://www.reddit.com/user/_jstanley) (
 - <http://smspriv6fynj23u6.onion>
 - <https://smsprivacy.org>
 
-# Magic-Wormhole -- send a file easily and fairly securely from one computer to another
+# file sharing
+
+## Magic-Wormhole -- send a file easily and fairly securely from one computer to another
 
 - <https://github.com/warner/magic-wormhole>
 
-## setup
+### setup
 
 ```Bash
 pip install magic-wormhole
 ```
 
-## usage
+### usage
 
 On the sending computer, run a command like `wormhole send file.pdf` and this should return a code that can be used on the receiving computer. On the receiving computer, run the command `wormhole receive` and this should accept the code.
+
+## Firefox Send -- end-to-end encrypted file sharing
+
+- <https://send.firefox.com>
+
+## OnionShare
+
+OnionShare launches a Tor web server, generating a URL to share that makes files of arbitrary size accessible.
+
+```Bash
+sudo add-apt-repository ppa:micahflee/ppa
+sudo apt update
+sudo apt install -y onionshare
+```

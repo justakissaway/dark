@@ -61,6 +61,12 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 
 ---
 
+# 1cP-LSD and 1P-LSD comparison
+
+|**1cP-LSD**           |**1P-LSD**           |
+|----------------------|---------------------|
+|![](media/1cP-LSD.png)|![](media/1P-LSD.png)|
+
 # 1cP-LSD: Purple Sunshine Acid/Curie Acid (2019--)
 
 ![](media/1-cyclopropanoyl-lsd_59_2.png)
@@ -92,6 +98,8 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 ---
 
 # 1P-LSD: Pink Sunshine Acid (--2019)
+
+![](media/1P-LSD_1.png)
 
 ## get
 ### wholesale and manufacturer: [Lizard Labs](https://lizardlabs.eu)
@@ -181,6 +189,8 @@ Consequently, all promised outstanding refunds can be provided from now on. We a
 ## chemistry
 
 It is plausible that storing 1P-LSD in a cool, dark place is best for its longevity. 1P-LSD should change to LSD by hydrolysis in the presence of water and in the absence of light.
+
+![](media/34prce_1plsd_tabs_became_yellow_possible_oxidation_cqz7yej.png)
 
 - UV exposure
     - LizardLabs left some 1P-LSD powder on a piece of card open in an office environment for 2 weeks. It changed in color from white to canary yellow. LCMS analysis suggested that there was negligible degradation, with >99% 1P-LSD and no peak for LSD. The appearance changed but nothing strange happens on analysis.
