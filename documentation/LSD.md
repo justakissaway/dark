@@ -65,7 +65,7 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 
 In order to address legal problems (illegal drugs result in people being less confident of what they are taking), various chemicals referred to as prodrugs exist that convert to LSD in the body, essentially converting to LSD in water and darkness, such as in the environment found under the tongue.
 
-1P-LSD ("Pink Sunshine Acid") and 1cP-LSD ("Purple Sunshine Acid") are examples. For a time it was legal around most of the world, but in 2020 this is not the case, though there are a few places where its legal status is unclear, such as the UK. Comparisons of the chemical structures of 1P-LSD, 1cP-LSD and LSD are shown below:
+1P-LSD ("Pink Sunshine Acid") and 1cP-LSD ("Purple Sunshine Acid") are examples. For a time 1P-LSD  was legal around most of the world, but sadly in 2020 this is not generally the case, though there are a few places where its legal status is unclear, such as the UK. 1cP-LSD is a chemical very similar to 1P-LSD and it is the current generation for attempting to ensure safe use of LSD. Comparisons of the chemical structures of 1cP-LSD, 1P-LSD and LSD are shown below:
 
 |**1cP-LSD**           |**1P-LSD**           |**LSD**              |
 |----------------------|---------------------|---------------------|
