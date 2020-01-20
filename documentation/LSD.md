@@ -24,9 +24,9 @@ Neurotransmitters are chemicals in the brain that help transmit and modulate inf
 
 LSD has a structure that is very similar to a few neurotransmitters that are produced in the brain. It is most similar to the neurotransmitter serotonin. Serotonin is used to modulate and signal a variety of things in the brain. Visual processing utilizes a lot of serotonin. Almost all of the senses have some serotonin input as well. Emotional processing is also heavily influenced by serotonin.
 
-LSD happens to be even better at activating serotonin receptors than serotonin itself, so it essentially increases the normal levels of signaling by serotonin (it does this through a variety of mechanisms, not just limited to better binding -- it actually releases extra serotonin, changes the lock to accept keys more readily, etc. It is analogous to turning up the volume on quiet music. Not only are the already audible sounds more audible, but things previously inaudible are now audible (whispers that might have been missed, background noise etc.). Because it increases the signal, it also increases the signal noise (if you turn the volume up on a microphone very high, there can be feedback loops or high frequemcy noise). In addition, if the volume is very high, there can be difficulty in discriminating between louder sounds aswell. On LSD, this often results in hallucinations -- hearing, seeing, touching, tasting, etc. things that are not there. In addition, through a relatively unknown mechanism, LSD increases 'cross-talk' between areas of the brain. That is to say, it helps stimulate areas of the brain that don't normally talk to each other, to start talking to each other. Over the long term, it can even help create connections that previously didn't exist -- much like putting up extra telephone or internet lines. This increased cross-talk while under the influence of LSD (combined with the increased sensory input) often results in something known as synesthesia, or a mixing of the senses. What this means is that people might experience a sense across multiple senses -- they might see sound, taste colors, or feel smells.
+LSD happens to be even better at activating serotonin receptors than serotonin itself, so it essentially increases the normal levels of signaling by serotonin (it does this through a variety of mechanisms, not just limited to better binding -- it actually releases extra serotonin, changes the lock to accept keys more readily, etc. It is analogous to turning up the volume on quiet music. Not only are the already audible sounds more audible, but things previously inaudible are now audible (whispers that might have been missed, background noise etc.). Because it increases the signal, it also increases the signal noise (if you turn the volume up on a microphone very high, there can be feedback loops or high frequency noise). In addition, if the volume is very high, there can be difficulty in discriminating between louder sounds aswell. On LSD, this often results in hallucinations -- hearing, seeing, touching, tasting, etc. things that are not there. In addition, through a relatively unknown mechanism, LSD increases 'cross-talk' between areas of the brain. That is to say, it helps stimulate areas of the brain that don't normally talk to each other, to start talking to each other. Over the long term, it can even help create connections that previously didn't exist -- much like putting up extra telephone or internet lines. This increased cross-talk while under the influence of LSD (combined with the increased sensory input) often results in something known as synesthesia, or a mixing of the senses. What this means is that people might experience a sense across multiple senses -- they might see sound, taste colors, or feel smells.
 
-Since the mechanism of cognition (what causes us to think the way we do) is not known, it is unclear why LSD can change a person's mindset, but it can do this. People often describe LSD experiences as "thinking outside the box". LSD seems to shift the paradaigm of thought. It is likely associated with this 'cross-talk' mechanism, at least to some extent, but the increase in serotonin and dopamine likely has an effect as well. Other serotonergic drugs, such as MDMA (which is very similar to hallucinogens), shift how a person thinks aswell because increased serotonin results in a sort of euphoria (happiness). It also seems to increase a person's ability to empathize with others -- that is to say, one can more easily relate to another's emotional state. This increased empathy also changes how one thinks about things.
+Since the mechanism of cognition (what causes us to think the way we do) is not known, it is unclear why LSD can change a person's mindset, but it can do this. People often describe LSD experiences as "thinking outside the box". LSD seems to shift the paradigm of thought. It is likely associated with this 'cross-talk' mechanism, at least to some extent, but the increase in serotonin and dopamine likely has an effect as well. Other serotonergic drugs, such as MDMA (which is very similar to hallucinogens), shift how a person thinks aswell because increased serotonin results in a sort of euphoria (happiness). It also seems to increase a person's ability to empathize with others -- that is to say, one can more easily relate to another's emotional state. This increased empathy also changes how one thinks about things.
 
 No hallucinogens have any proven addictive mechanisms (they are the only recreational drugs that have no addictive qualities). In addition, casual use is not associated with any permanent brain damage. Any use, casual or not, will reduce the relative abundance of serotonin (and other catecholamine receptors, such as dopamine) receptors. However, anecdotal evidence suggests that a single use of a moderate dose can be recovered from within about 1--2 weeks of abstinence.
 
@@ -61,13 +61,19 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 
 ---
 
-# 1cP-LSD and 1P-LSD comparison
+# Prodrugs of LSD, such as 1cP-LSD and 1P-LSD
 
-|**1cP-LSD**           |**1P-LSD**           |
-|----------------------|---------------------|
-|![](media/1cP-LSD.png)|![](media/1P-LSD.png)|
+In order to address legal problems (illegal drugs result in people being less confident of what they are taking), various chemicals referred to as prodrugs exist that convert to LSD in the body, essentially converting to LSD in water and darkness, such as in the environment found under the tongue.
 
-# 1cP-LSD: Purple Sunshine Acid/Curie Acid (2019--)
+1P-LSD ("Pink Sunshine Acid") and 1cP-LSD ("Purple Sunshine Acid") are examples. For a time 1P-LSD  was legal around most of the world, but sadly in 2020 this is not generally the case, though there are a few places where its legal status is unclear, such as the UK. 1cP-LSD is a chemical very similar to 1P-LSD and it is the current generation for attempting to ensure safe use of LSD. Comparisons of the chemical structures of 1cP-LSD, 1P-LSD and LSD are shown below:
+
+|**1cP-LSD**           |**1P-LSD**           |**LSD**              |
+|----------------------|---------------------|---------------------|
+|![](media/1cP-LSD.png)|![](media/1P-LSD.png)|![](media/LSD.png)   |
+
+## 1cP-LSD: Purple Sunshine Acid/Curie Acid (2019--)
+
+This is the latest prodrug for LSD, following on from the success of 1P-LSD.
 
 ![](media/1-cyclopropanoyl-lsd_59_2.png)
 
@@ -77,10 +83,11 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 - molecular mass: N/A
 - molecular formula: C23H27N3O2
 
-## get
+### get
 
-### BASH Designer Labs
+#### BASH Designer Labs (2019-01-10 under retesting)
 
+- [1cP-LSD Blotter 100 μg](http://www.1plsd.to/1P-LSD-Blotter-100mcg/10x-1P-LSD-100mcg-59.html)
 - <https://www.1pLSD.to>
 - <https://www.1pLSD.de>
 - BASH Limited
@@ -91,54 +98,50 @@ propionyl-d-lysergic acid diethylamide (1P-LSD) (PDF)](https://a.pomf.cat/blxodi
 - Whatsapp Messenger: +49 1577 1507355
 - phone: +41 (33) 533 2624
 
-### High Store Research Chemicals Shop
+#### High Store Research Chemicals Shop (untested)
 
 - <http://www.highstore.net/research-chemicals-germany/1cP-LSD>
 
 ---
 
-# 1P-LSD: Pink Sunshine Acid (--2019)
+## 1P-LSD: Pink Sunshine Acid (--2019)
 
 ![](media/1P-LSD_1.png)
 
-## get
-### wholesale and manufacturer: [Lizard Labs](https://lizardlabs.eu)
+### chemistry
+
+It is plausible that storing 1P-LSD in a cool, dark place is best for its longevity. 1P-LSD should change to LSD by hydrolysis in the presence of water and in the absence of light.
+
+![](media/34prce_1plsd_tabs_became_yellow_possible_oxidation_cqz7yej.png)
+
+- UV exposure: LizardLabs left some 1P-LSD powder on a piece of card open in an office environment for 2 weeks. It changed in color from white to canary yellow. LCMS analysis suggested that there was negligible degradation, with >99% 1P-LSD and no peak for LSD. The appearance changed but nothing strange happens on analysis. ([reference](https://www.reddit.com/r/researchchemicals/comments/34prce/1plsd_tabs_became_yellow_possible_oxidation/cqz7yej))
+
+### dose
+
+100 μg should be a reasonably gentle dose particularly for newcomers, though having a little [Xanax](Xanax.md) could be prudent.
+
+- microdosing:
+    - microdose by paper
+        - Cut the tab into 10 equal pieces or 5 equal pieces. Consume as appropriate.
+    - volumetric microdose (reliable but possibly wasteful): Dilute 150 μg 1P-LSD in 150 ml of water and dose up to 20 μg.
+
+![](media/Ozx8j9W.jpg)
+
+### get
+
+#### wholesale and manufacturer: [Lizard Labs](https://lizardlabs.eu)
 
 - [Reddit user Lizard-Labs](https://www.reddit.com/user/Lizard-Labs)
-- people
 - Alex ([reference](https://www.reddit.com/r/RCSources/comments/426ypp/ask_lizardlabs_anything_ive_got_an_awesome))
 
-### reseller: [Research Group Nederland](https://www.researchgroupnederland.com)
-
-- <https://www.researchgroupnederland.com/product/1p-lsd-blotter/>
-
-```
-Hurksestraat 64
-5652 AL Eindhoven
-The Netherlands
-Phone:
-Email: info@researchgroupnederland.com
-KvK: 67881181
-Btw (tax): NL198606138B02
-```
-
-```
-Research Group Nederland
-Alex Peijnenburg
-Baandervrouwenlaan 145-5,
-Baandervrouwenlaan,
-5282 BOXTEL,
-NL Nederlands, The
-```
-
-### reseller: BASH Designer Labs (note: since 2017 it's likely that the German government is monitoring them)
+#### reseller: BASH Designer Labs (note: since 2017 it's likely that the German government is monitoring them)
 
 - [1P-LSD Blotter 100 μg](http://www.1plsd.to/1P-LSD-Blotter-100mcg) (2017-07-27T2020Z delays?)
 - [coupons!](https://www.reddit.com/r/RCSources/comments/4ts5zb/www1plsdto_coupon_10)
 
 ![](media/2016-07-27T0905Z_DSC03632.JPG)
 
-#### 2017-08-16T1727 part of e-mail
+##### 2017-08-16T1727 part of e-mail
 
 ```
 Hi,
@@ -168,7 +171,7 @@ Furthermore, we engaged a third party payments company to manage all incoming pa
 Consequently, all promised outstanding refunds can be provided from now on. We ask you for patience, as it is about 500 outstanding payments which are reviewed one by one. This process will take up to 10 days. Please be prepared as we might contact you to receive further information in regard of your payment.
 ```
 
-### untested
+#### untested
 
 - [Lysergi](https://lysergi.com)
 - [Causing Color](https://www.causingcolor.com)
@@ -180,28 +183,34 @@ Consequently, all promised outstanding refunds can be provided from now on. We a
     - discount code?: JUNE2016
     - [reliability](https://www.reddit.com/r/RCSources/comments/4q5jmh/vchemscom_reliability)
 
-### obsolete
+#### obsolete
 
-- [RoyalAlchemist](https://www.royalalchemist.com)
+#### [Research Group Nederland](https://www.researchgroupnederland.com)
+
+- <https://www.researchgroupnederland.com/product/1p-lsd-blotter/>
+
+```
+Hurksestraat 64
+5652 AL Eindhoven
+The Netherlands
+Phone:
+Email: info@researchgroupnederland.com
+KvK: 67881181
+Btw (tax): NL198606138B02
+```
+
+```
+Research Group Nederland
+Alex Peijnenburg
+Baandervrouwenlaan 145-5,
+Baandervrouwenlaan,
+5282 BOXTEL,
+NL Nederlands, The
+```
+
+#### [RoyalAlchemist](https://www.royalalchemist.com)
 
 ![](media/2016-05-11_DSC01251.JPG)
-
-## chemistry
-
-It is plausible that storing 1P-LSD in a cool, dark place is best for its longevity. 1P-LSD should change to LSD by hydrolysis in the presence of water and in the absence of light.
-
-![](media/34prce_1plsd_tabs_became_yellow_possible_oxidation_cqz7yej.png)
-
-- UV exposure
-    - LizardLabs left some 1P-LSD powder on a piece of card open in an office environment for 2 weeks. It changed in color from white to canary yellow. LCMS analysis suggested that there was negligible degradation, with >99% 1P-LSD and no peak for LSD. The appearance changed but nothing strange happens on analysis.
-        - [reference](https://www.reddit.com/r/researchchemicals/comments/34prce/1plsd_tabs_became_yellow_possible_oxidation/cqz7yej)
-- dose
-    - volumetric microdose (reliable but possibly wasteful)
-        - Dilute 150 μg 1P-LSD in 150 ml of water and dose up to 20 μg.
-    - microdose by paper
-        - Cut the tab into 10 equal pieces or 5 equal pieces. Consume as appropriate.
-
-![](media/Ozx8j9W.jpg)
 
 ---
 
