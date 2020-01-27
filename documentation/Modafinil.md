@@ -2,6 +2,8 @@
 
 # Modafinil
 
+![](media/EMvlKf6XkAAgYSZ.png)
+
 # guide
 
 - Make a list of things to do in order to avoid focusing on distractions.

@@ -16,6 +16,8 @@ In 2011, researchers at John Jay College of Criminal Justice reported that dieta
 
 ## NextGeneration
 
+![](media/1553686109hEblHXvJf56zY158nr2q.png)
+
 - notes: decent quality, *accepts Monero*, accepts Bitcoin, pretty brisk
 - note: due to stop selling on Empire Market soon, will be selling on:
     - Cryptonia
