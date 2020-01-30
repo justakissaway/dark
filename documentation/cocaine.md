@@ -24,14 +24,26 @@ In 2011, researchers at John Jay College of Criminal Justice reported that dieta
     - Berlusconi
     - Samsara
     - Monopoly
-- [Empire Market](alu4z7a3upjtlqva.onion/u/NextGeneration)
-    - 2019-12-09T1630Z [UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g](http://v6u2ngtpiihou77b.onion/product/23954/105/147434)
-        - 0.037159 BTC = 6.083430 LTC = 5.095851 XMR
-    - [UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g](alu4z7a3upjtlqva.onion/product/23954/105/147434)
-    - 0.028801 BTC = 269.94 USD = 4.454815 XMR
-- obsolete
-    - [Dream account](http://t3e6ly3uoif4zcw2.onion/contactMember?member=NextGeneration)
-        - ["UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g FREE UK"](http://t3e6ly3uoif4zcw2.onion/viewProduct?offer=917155.170616)
+- Monopoly market (username "NextGeneration")
+    - "Peruvian 89% FISHSCALE COCAINE" (/listing/379)
+        - 2020-01-29T1505Z
+            - 0.5 g = 49.26 USD
+            - 1 g = 84.25 USD
+            - 2 g = 155.50 USD
+            - 3.5 g = 265.73 USD
+            - 5 g = 375.90 USD
+            - 7 g  = 524.97 USD
+            - 14 g = 1038.54 USD
+            - 28 g = 2041.22 USD
+            - 50 g = 2770.00 USD
+            - 126 g = 6980.00 USD
+- Empire Market (username "NextGeneration")
+    - "UNCUT Peruvian 89% FISHSCALE COCAINE 3.5g" (/product/23954/105/147434)
+        - 2019-12-09T1630Z
+            - 0.037159 BTC = 6.083430 LTC = 5.095851 XMR
+        - 2019-05-23T1729Z
+            - 0.028801 BTC = 269.94 USD = 4.454815 XMR
+- Dream market (obsolete) (username "NextGeneration")
 
 contact details:
 

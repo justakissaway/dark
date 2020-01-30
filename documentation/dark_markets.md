@@ -23,7 +23,7 @@
 |Berlusconi Market                |active              |
 |Cryptonia                        |to be considered    |
 |[Empire Market](Empire_Market.md)|active              |
-|Monopoly                         |to be considered    |
+|[Monopoly](Monopoly.md)          |active (2020-01-29) |
 |[OpenBazaar](OpenBazaar.md)      |active (2019-10-28) |
 |Samsara                          |to be considered    |
 |---------------------------------|--------------------|
