@@ -69,7 +69,7 @@ JaDPFeJMczaT
 
 ## purchase procedure
 
-It is assumed that [Monero](Monero.md) is being used for payment. Get the onion link for the Monopoly market website from from [dark.fail](https://dark.fail) or [Darknetlive](https://darknetlive.com) and surf to the site. Verify the signature of the website displayed using the public key above, or the public key available on [Darknetlive](https://darknetlive.com).
+It is assumed that [Monero](Monero.md) is being used for payment. Get the onion link for the Monopoly market website from [dark.fail](https://dark.fail) or [Darknetlive](https://darknetlive.com) and surf to the site. Verify the signature of the website displayed using the public key above, or the public key available on [Darknetlive](https://darknetlive.com).
 
 ```Bash
 gpg --verify signature.asc
