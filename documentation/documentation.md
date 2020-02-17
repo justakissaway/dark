@@ -38,7 +38,7 @@ This documentation does not seek to suggest unethical behaviour nor does it seek
 # contents conceptual tree
 
 - [set and setting](set_and_setting.md) (checklists, calm, sedation, Xanax)
-- [coming_down](coming_down.md) (coming down)
+- [coming down](coming_down.md) (coming down)
 - [culture](culture.md) (bypass paper paywalls, get books etc.)
 - [cyberspace](cyberspace.md) (2FA, Tor, VPN, PGP, Bitcoin, MAC, AlphaBay)
     - [AirVPN](https://github.com/wdbm/resources_AirVPN) (VPN service)
