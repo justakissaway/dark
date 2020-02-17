@@ -37,7 +37,7 @@ This documentation does not seek to suggest unethical behaviour nor does it seek
 
 # contents conceptual tree
 
-- [set_and_setting](set_and_setting.md) (checklists, calm, sedation, Xanax)
+- [set and setting](set_and_setting.md) (checklists, calm, sedation, Xanax)
 - [coming_down](coming_down.md) (coming down)
 - [culture](culture.md) (bypass paper paywalls, get books etc.)
 - [cyberspace](cyberspace.md) (2FA, Tor, VPN, PGP, Bitcoin, MAC, AlphaBay)
@@ -57,9 +57,9 @@ This documentation does not seek to suggest unethical behaviour nor does it seek
         - [Empire Market](Empire_Market.md)
         - [Monopoly](Monopoly_Market.md)
         - [OpenBazaar](OpenBazaar.md)
-        - [Dream_Market](Dream_Market.md)
+        - [Dream Market](Dream_Market.md)
         - [AlphaBay](AlphaBay.md)
-- [spatial_security](spatial_security.md) (securing a room or tangible property)
+- [spatial security](spatial_security.md) (securing a room or tangible property)
 - [protests](protests.md) (security in protest environments)
 - [legal](legal.md) (legal status of things, psyceactivism)
 - [replications](replications.md) (visuals and other simulations)
