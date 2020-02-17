@@ -20,9 +20,9 @@
 
 # DMT replications
 
-[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gifv)
+[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gif)
 
-[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gifv)
+[![](https://i.imgur.com/xy54YvA.gif)](https://i.imgur.com/xy54YvA.gif)
 
 [![](https://img.youtube.com/vi/ayzR73pRsFs/maxresdefault.jpg)](https://www.youtube.com/embed/ayzR73pRsFs)
 

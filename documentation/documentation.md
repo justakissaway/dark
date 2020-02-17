@@ -35,36 +35,51 @@ This documentation does not seek to suggest unethical behaviour nor does it seek
 - [z0r](http://z0r.de)
 - [Electric Sheep](https://www.youtube.com/watch?v=O5RdMvgk8b0) (hours of fractal animations)
 
-# contents
+# contents conceptual tree
 
-|**documentation**                                      |**description**                            |
-|-------------------------------------------------------|-------------------------------------------|
-|[set_and_setting](set_and_setting.md)                  |checklists, calm, sedation, Xanax          |
-|[coming_down](coming_down.md)                          |coming down                                |
-|[culture](culture.md)                                  |bypass paper paywalls, get books etc.      |
-|[cyberspace](cyberspace.md)                            |2FA, Tor, VPN, PGP, Bitcoin, MAC, AlphaBay |
-|[AirVPN](https://github.com/wdbm/resources_AirVPN)     |VPN service                                |
-|[spatial_security](spatial_security.md)                |securing a room or tangible property       |
-|[protests](protests.md)                                |security in protest environments           |
-|[legal](legal.md)                                      |legal status of things, psyceactivism      |
-|[replications](replications.md)                        |visuals and other simulations              |
-|[laservision](laservision.md)                          |cognitive enhancement                      |
-|-------------------------------------------------------|-------------------------------------------|
-|[2C-B](2C-B.md)                                        |                                           |
-|[cocaine](cocaine.md)                                  |Peruvian marching powder                   |
-|[DMT](DMT.md)                                          |shrooms++                                  |
-|[ketamine](ketamine.md)                                |for Bojack                                 |
-|[lidocaine](lidocaine.md)                              |surgery "in the field"                     |
-|[LSD](LSD.md)                                          |                                           |
-|[MDMA](MDMA.md)                                        |                                           |
-|[mescaline](mescaline.md)                              |                                           |
-|[Modafinil](Modafinil.md)                              |laservision                                |
-|[pentobarbital](pentobarbital.md)                      |So you've decided to kill yourself!        |
-|[Salvia](Salvia.md)                                    |underground machine world, land of the dead|
-|[scopolamine](scopolamine.md)                          |                                           |
-|[shrooms](shrooms.md)                                  |                                           |
-|[weed](weed.md)                                        |The Devil's Spinnach                       |
-|[Xanax](Xanax.md)                                      |for knitting up ravelled sleeves           |
+- [set_and_setting](set_and_setting.md) (checklists, calm, sedation, Xanax)
+- [coming_down](coming_down.md) (coming down)
+- [culture](culture.md) (bypass paper paywalls, get books etc.)
+- [cyberspace](cyberspace.md) (2FA, Tor, VPN, PGP, Bitcoin, MAC, AlphaBay)
+    - [AirVPN](https://github.com/wdbm/resources_AirVPN) (VPN service)
+    - [hardware](hardware.md) (OPSEC hardware)
+    - [DNM Bible](DNM_Bible.md) (OPSEC DNM Bible)
+    - [Tails](Tails.md) (privacy-centric live GNU/Linux distribution)
+    - [computing](computing_security_introduction.md) (security introduction)
+    - [VeraCrypt](https://github.com/wdbm/resources_VeraCrypt) (encrypted volumes using VeraCrypt)
+    - [2-factor authentication](https://github.com/justakissaway/dark/blob/master/documentation/2fa.md)
+    - [communications](communications.md) (secure communications, P2P communications)
+    - [PGP](PGP.md) (PGP)
+    - [QR codes](QR.md) (generating and using QR codes)
+    - [Bitcoin](Bitcoin.md)
+    - [Monero](Monero.md)
+    - [dark markets](dark_markets.md)
+        - [Empire Market](Empire_Market.md)
+        - [Monopoly](Monopoly_Market.md)
+        - [OpenBazaar](OpenBazaar.md)
+        - [Dream_Market](Dream_Market.md)
+        - [AlphaBay](AlphaBay.md)
+- [spatial_security](spatial_security.md) (securing a room or tangible property)
+- [protests](protests.md) (security in protest environments)
+- [legal](legal.md) (legal status of things, psyceactivism)
+- [replications](replications.md) (visuals and other simulations)
+- [laservision](laservision.md) (cognitive enhancement)
+- drugs
+    - [2C-B](2C-B.md)
+    - [cocaine](cocaine.md) (Peruvian marching powder)
+    - [DMT](DMT.md) (shrooms++)
+    - [ketamine](ketamine.md) (for Bojack)
+    - [lidocaine](lidocaine.md)(surgery "in the field")
+    - [LSD](LSD.md)
+    - [MDMA](MDMA.md)
+    - [mescaline](mescaline.md)
+    - [Modafinil](Modafinil.md) (laservision)
+    - [pentobarbital](pentobarbital.md) (So you've decided to kill yourself!)
+    - [Salvia](Salvia.md) (underground machine world, land of the dead)
+    - [scopolamine](scopolamine.md)
+    - [shrooms](shrooms.md)
+    - [weed](weed.md) (The Devil's Spinach)
+    - [Xanax](Xanax.md) (for knitting up ravelled sleeves)
 
 # drugs in general
 

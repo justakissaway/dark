@@ -20,7 +20,7 @@
 - <https://f-droid.org/en/packages/org.briarproject.briar.android/>
 - <https://play.google.com/store/apps/details?id=org.briarproject.briar.android>
 
-## The Serval Mesh
+## The Serval Mesh (probably not a reliable option)
 
 - <https://play.google.com/store/apps/details?id=org.servalproject>
 
