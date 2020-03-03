@@ -74,6 +74,7 @@ This documentation does not seek to suggest unethical behaviour nor does it seek
     - [MDMA](MDMA.md)
     - [mescaline](mescaline.md)
     - [Modafinil](Modafinil.md) (laservision)
+    - [oxycodone](oxycodone.md) (best served with chamomile tea?)
     - [pentobarbital](pentobarbital.md) (So you've decided to kill yourself!)
     - [Salvia](Salvia.md) (underground machine world, land of the dead)
     - [scopolamine](scopolamine.md)

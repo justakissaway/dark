@@ -1,25 +1,24 @@
 [![](media/project_dark_home.png)](documentation.md)
 
-# Xanax
+# oxycodone
 
 ![](media/warning_danger_of_addiction.gif)
+
+Ocycodone is an opioid which is chemically similar to codeine.
 
 # get
 
 ## market: Monopoly
 
-### vendor: bluemagic (tested 2020-02)
+### vendor: bluemagic (tested 2020-03)
 
-- Xanax 2mg Alprazalom Pharma Grade UK Xans
-    - listing/402
-        - 2020-02-17T1732Z
+- Sandoz Oxycodone Oxycontin 80mg Genuine Pharmacy
+    - listing/406
+        - 2020-03-03T1910Z
             - Monero, Bitcoin
-            - 10 pills = 13 USD
-            - 50 pills = 50 USD
-            - 100 pills = 90 USD
-            - 250 pills = 195 USD
-            - 500 pills = 325 USD
-            - 1000 pills = 500 USD
+            - 1 pill = 10 USD
+            - 5 pills = 90 USD
+            - 10 pills = 150 USD
 
 PGP public key:
 
@@ -76,30 +75,3 @@ FpfJ6j22ObLweAukYVXV1Lc+FOOd4qax8dnDrvD7m190Hw==
 =VcI1
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-## market: Empire Market
-
-### vendor: PremierLeague
-
-- 20x Xanax 2mg ( alprazolam )
-    - product/85426/69/184817
-        - 2019-12-09T1634Z)
-            - 42 Xanax = 43.41 USD = 0.005842 BTC
-        - 2019-10-27 (verified good)
-            - 42 Xanax = 42.42 USD = 0.004516 BTC
-        - 2019-08-29 verified
-            - 20 Xanax = 20.68 = 0.002150 BTC
-
-## Dream (obsolete)
-
-### vendor: c10labs
-
-- xanax bars 30
-    - offer=967954.716073
-    - 2018-09-25T1933Z ฿0.00645 (£31.2)
-
-### vendor: ukbk
-
-- x100 xanax 3mg SALE UK ONLY
-    - offer=97621.135270
-    - 2018-09-25T1931Z ฿0.0172 (£83.2)
