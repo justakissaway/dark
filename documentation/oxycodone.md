@@ -12,6 +12,8 @@ Ocycodone is an opioid which is chemically similar to codeine.
 
 ### vendor: bluemagic (tested 2020-03)
 
+![](media/IMG_20200307.png)
+
 - Sandoz Oxycodone Oxycontin 80mg Genuine Pharmacy
     - listing/406
         - 2020-03-03T1910Z
