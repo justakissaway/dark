@@ -4,7 +4,7 @@
 
 ![](media/warning_danger_of_addiction.gif)
 
-Ocycodone is an opioid which is chemically similar to codeine.
+Oxcycodone is an opioid which is chemically similar to codeine.
 
 # get
 
