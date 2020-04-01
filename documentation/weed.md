@@ -98,6 +98,8 @@ z5bOTlxtkh9qcMBGzAFIO9u3nbxz8w==
 
 # get cannabis oil for vaping
 
+While the authors remain undecided, due to reports of a more gentle burning of cannabis oil being best, the authors have observed that 18.5 W appears to work well a device similar to an Innokin CoolFire Ultra vape system.
+
 ## Empire Market
 
 ### kimono (2019-11 active) (**accepts Monero**)

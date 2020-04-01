@@ -118,6 +118,8 @@ It is plausible that storing 1P-LSD in a cool, dark place is best for its longev
 
 ### dose
 
+![](media/This_is_where_the_fun_begins.png)
+
 100 μg should be a reasonably gentle dose particularly for newcomers, though having a little [Xanax](Xanax.md) could be prudent.
 
 - microdosing:

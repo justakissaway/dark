@@ -4,25 +4,32 @@
 
 ![](media/warning_danger_of_addiction.gif)
 
-Oxcycodone is an opioid which is chemically similar to codeine.
+Oxycodone is an opioid which is chemically similar to codeine.
 
 # get
 
-## market: Monopoly
+## market: [Monopoly](Monopoly Market.md)
 
 ### vendor: bluemagic (tested 2020-03)
 
 ![](media/IMG_20200307.png)
 
-- Sandoz Oxycodone Oxycontin 80mg Genuine Pharmacy
+- "Sandoz Oxycodone Oxycontin 80mg Genuine Pharmacy"
     - listing/406
+        - 2020-03-30T1736Z
+            - Monero, Bitcoin
+            - 1 pill = 20 USD
+            - 5 pills = 90 USD
+            - 10 pills = 175 USD
+            - 20 pills = 300 USD
+            - 28 pills = 350 USD
         - 2020-03-03T1910Z
             - Monero, Bitcoin
             - 1 pill = 10 USD
             - 5 pills = 90 USD
             - 10 pills = 150 USD
 
-PGP public key:
+[PGP](PGP.md) public key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
